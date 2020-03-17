@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=L1 Old Footprint=0402-A New Footprint=0603
+Change Component Footprint: Designator=L14 Old Footprint=0402-A New Footprint=0603
+Change Component Footprint: Designator=R222 Old Footprint=AXIAL-0.3 New Footprint=0603
+Change Component Footprint: Designator=C57 Old Footprint=RAD-0.3 New Footprint=0603

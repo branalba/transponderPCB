@@ -1,0 +1,25 @@
+Added Component: Designator=IC104(SON50P300X300X80-9N-D)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/media/en/technical-documentation/data-sheets/5560f.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Linear Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LT5560EDD#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-LT5560EDD#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=584-LT5560EDD%23PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "7869705"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/7869705"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net*?_4 Pin=IC104-1
+Added Pin To Net: NetName=3.0V_2 Pin=IC104-2
+Added Pin To Net: NetName=3.0V_2 Pin=IC104-3
+Added Pin To Net: NetName=3.0V_2 Pin=IC104-7
+Added Pin To Net: NetName=Net*?_5 Pin=IC104-8
+Added Pin To Net: NetName=NetIC104_4 Pin=IC104-4
+Added Pin To Net: NetName=NetIC104_4 Pin=L116-2
+Added Pin To Net: NetName=NetIC104_4 Pin=R114-2
+Added Net: Name=NetIC104_4
+Added Pin To Net: NetName=NetIC104_5 Pin=IC104-5
+Added Pin To Net: NetName=NetIC104_5 Pin=L113-2
+Added Net: Name=NetIC104_5
+Added Pin To Net: NetName=NetIC104_6 Pin=IC104-6
+Added Pin To Net: NetName=NetIC104_6 Pin=L110-1
+Added Net: Name=NetIC104_6
+Added Member To Class: ClassName=Mixers and IF Member=Component IC104 LT5560EDD#PBF

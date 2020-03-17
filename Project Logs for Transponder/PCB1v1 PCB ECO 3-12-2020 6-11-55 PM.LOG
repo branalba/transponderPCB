@@ -1,0 +1,60 @@
+Added Component: Designator=Y1(ECS75SMF45A30B)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/122/ECS_75SMF-10007.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ECS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ECS-75SMF45A30B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "520-ECS-75SMF45A30B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=520-ECS-75SMF45A30B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Y2(ECS75SMF45A30B)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/122/ECS_75SMF-10007.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ECS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ECS-75SMF45A30B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "520-ECS-75SMF45A30B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=520-ECS-75SMF45A30B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Y3(ECS75SMF45A30B)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/122/ECS_75SMF-10007.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ECS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ECS-75SMF45A30B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "520-ECS-75SMF45A30B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=520-ECS-75SMF45A30B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Y4(ECS75SMF45A30B)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/122/ECS_75SMF-10007.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ECS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ECS-75SMF45A30B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "520-ECS-75SMF45A30B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=520-ECS-75SMF45A30B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.0V_2 Pin=Y1-1
+Added Pin To Net: NetName=NetC110_2 Pin=Y1-2
+Added Pin To Net: NetName=NetC100_2 Pin=Y1-3
+Added Pin To Net: NetName=3.0V_2 Pin=Y1-4
+Added Pin To Net: NetName=NetC114_2 Pin=Y1-6
+Added Pin To Net: NetName=3.0V_2 Pin=Y2-1
+Added Pin To Net: NetName=NetC117_2 Pin=Y2-2
+Added Pin To Net: NetName=NetC111_1 Pin=Y2-3
+Added Pin To Net: NetName=3.0V_2 Pin=Y2-4
+Added Pin To Net: NetName=NetC115_2 Pin=Y2-6
+Added Pin To Net: NetName=3.0V_2 Pin=Y3-1
+Added Pin To Net: NetName=NetC132_2 Pin=Y3-2
+Added Pin To Net: NetName=NetR112_2 Pin=Y3-3
+Added Pin To Net: NetName=3.0V_2 Pin=Y3-4
+Added Pin To Net: NetName=NetC129_1 Pin=Y3-6
+Added Pin To Net: NetName=3.0V_2 Pin=Y4-1
+Added Pin To Net: NetName=NetC136_2 Pin=Y4-2
+Added Pin To Net: NetName=NetR115_2 Pin=Y4-3
+Added Pin To Net: NetName=3.0V_2 Pin=Y4-4
+Added Pin To Net: NetName=NetC130_2 Pin=Y4-6
+Added Member To Class: ClassName=Mixers and IF Member=Component Y1 ECS-75SMF45A30B
+Added Member To Class: ClassName=Mixers and IF Member=Component Y2 ECS-75SMF45A30B
+Added Member To Class: ClassName=Mixers and IF Member=Component Y3 ECS-75SMF45A30B
+Added Member To Class: ClassName=Mixers and IF Member=Component Y4 ECS-75SMF45A30B

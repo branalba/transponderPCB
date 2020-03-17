@@ -1,0 +1,92 @@
+Added Component: Designator=IC100(SOT230P700X180-4N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/609/1963fc-1270290.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Linear Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LT1963EST-2.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-LT1963EST-2.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=584-LT1963EST-2.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC101(SOT230P700X180-4N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/datasheet/2/609/1963fc-1270290.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Linear Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LT1963EST-2.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-LT1963EST-2.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=584-LT1963EST-2.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC102(SON50P300X300X80-9N-D)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/media/en/technical-documentation/data-sheets/5560f.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Linear Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LT5560EDD#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-LT5560EDD#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=584-LT5560EDD%23PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "7869705"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/7869705"; VariantName = "[No Variations]"
+Added Component: Designator=IC105(SOT65P210X110-5N)
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "http://www.alliedelec.com/microchip-technology-inc-mcp6231ut-e-lt/70414866/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied_Number"; Value = "70414866"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/21881e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MCP6231UT-E/LT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-MCP6231UT-E/LT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=579-MCP6231UT-E%2FLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "7240643P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/7240643P"; VariantName = "[No Variations]"
+Added Component: Designator=IC106(SOT65P210X110-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.onsemi.com/pub/Collateral/FPF2001-D.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FPF2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "512-FPF2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=512-FPF2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "8088916P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/8088916P"; VariantName = "[No Variations]"
+Added Component: Designator=IC107(SOT65P210X110-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.onsemi.com/pub/Collateral/FPF2001-D.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "FPF2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "512-FPF2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=512-FPF2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6709942P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6709942P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.0V_1 Pin=IC100-1
+Added Pin To Net: NetName=3.0V_2 Pin=IC100-2
+Added Pin To Net: NetName=NetC105_2 Pin=IC100-3
+Added Pin To Net: NetName=3.0V_2 Pin=IC100-4
+Added Pin To Net: NetName=3.0V_1 Pin=IC101-1
+Added Pin To Net: NetName=3.0V_2 Pin=IC101-2
+Added Pin To Net: NetName=NetC107_2 Pin=IC101-3
+Added Pin To Net: NetName=3.0V_2 Pin=IC101-4
+Added Pin To Net: NetName=Net*1_4 Pin=IC102-1
+Added Pin To Net: NetName=3.0V_1 Pin=IC102-2
+Added Pin To Net: NetName=NetIC102_3 Pin=IC102-3
+Added Pin To Net: NetName=NetIC102_4 Pin=IC102-4
+Added Pin To Net: NetName=NetIC102_5 Pin=IC102-5
+Added Pin To Net: NetName=NetIC102_6 Pin=IC102-6
+Added Pin To Net: NetName=NetC120_2 Pin=IC102-7
+Added Pin To Net: NetName=Net*1_5 Pin=IC102-8
+Added Pin To Net: NetName=3.0V_2 Pin=IC102-9
+Added Pin To Net: NetName=NetIC105_1 Pin=IC105-1
+Added Pin To Net: NetName=3.0V_2 Pin=IC105-2
+Added Pin To Net: NetName=NetIC105_3 Pin=IC105-3
+Added Pin To Net: NetName=NetIC105_4 Pin=IC105-4
+Added Pin To Net: NetName=3.0V_1 Pin=IC105-5
+Added Pin To Net: NetName=3.0V_1 Pin=IC106-1
+Added Pin To Net: NetName=3.0V_2 Pin=IC106-2
+Added Pin To Net: NetName=LT Pin=IC106-4
+Added Pin To Net: NetName=NetIC106_5 Pin=IC106-5
+Added Pin To Net: NetName=3.0V_2 Pin=IC107-2
+Added Pin To Net: NetName=3.0V_2 Pin=IC107-3
+Added Pin To Net: NetName=PAEn_P Pin=IC107-4
+Added Pin To Net: NetName=NetIC106_5 Pin=IC107-5
+Added Member To Class: ClassName=Mixers and IF Member=Component IC100 LT1963EST-2.5
+Added Member To Class: ClassName=Mixers and IF Member=Component IC101 LT1963EST-2.5
+Added Member To Class: ClassName=Mixers and IF Member=Component IC102 LT5560EDD#PBF
+Added Member To Class: ClassName=Mixers and IF Member=Component IC105 MCP6231UT-E_LT
+Added Member To Class: ClassName=Mixers and IF Member=Component IC106 FPF2004
+Added Member To Class: ClassName=Mixers and IF Member=Component IC107 FPF2000
