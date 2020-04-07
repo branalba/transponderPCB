@@ -123,23 +123,6 @@ GenerateClassCluster=0
 DocumentUniqueId=NJSMGJDW
 
 [Document6]
-DocumentPath=RXTX4F1.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=5
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GELDHYTG
-
-[Document7]
 DocumentPath=RXTX4F.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=100
