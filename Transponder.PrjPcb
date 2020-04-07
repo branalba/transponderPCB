@@ -139,6 +139,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=THNAVRZN
 
+[Document7]
+DocumentPath=RXTX4F1.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GELDHYTG
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Transponder\Design Rule Check - PCB1V1.html
 DItemRevisionGUID=
