@@ -72,6 +72,23 @@ GenerateClassCluster=0
 DocumentUniqueId=SRBCRQFF
 
 [Document3]
+DocumentPath=PCB1v1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MPPOBMFW
+
+[Document4]
 DocumentPath=PCB1V1.2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LRLONGRH
 
-[Document4]
+[Document5]
 DocumentPath=PCB1test.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IRQIOKMM
 
-[Document5]
+[Document6]
 DocumentPath=RXTX4.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -122,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NJSMGJDW
 
-[Document6]
+[Document7]
 DocumentPath=RXTX4F.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=100
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=THNAVRZN
 
-[Document7]
+[Document8]
 DocumentPath=RXTX4F1.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
