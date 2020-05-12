@@ -123,7 +123,7 @@ GenerateClassCluster=0
 DocumentUniqueId=REEGBDWE
 
 [Document6]
-DocumentPath=PCB11.PcbLib
+DocumentPath=PCB1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137,7 +137,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BKGMLGXI
+DocumentUniqueId=RFKWYJNB
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Transponder\Design Rule Check - PCB1.html
@@ -1069,9 +1069,9 @@ Type106=2
 Type107=2
 Type108=2
 Type109=1
-Type110=1
+Type110=0
 Type111=1
-Type112=1
+Type112=0
 Type113=1
 Type114=2
 Type115=2
