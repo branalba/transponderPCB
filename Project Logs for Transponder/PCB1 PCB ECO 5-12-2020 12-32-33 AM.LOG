@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=NetD1_2 Pin=D1-2
+Removed Pin From Net: NetName=GND Pin=D2-1
+Removed Pin From Net: NetName=NetR146_1 Pin=T103-4
+Removed Pin From Net: NetName=NetR147_2 Pin=T103-6
+Change Component Footprint: Designator=D2 Old Footprint=DIODE-0.7 New Footprint=DIOM5436X247N
+Change Component Footprint: Designator=D1 Old Footprint=DIODE-0.7 New Footprint=SOD3716X135N
+Change Component Footprint: Designator=T102 Old Footprint=FA2469ALB New Footprint=WBC161TLC
+Change Component Footprint: Designator=T103 Old Footprint=SMLP5001E New Footprint=WBC11TLC
+Change Component Comment : Designator=D1 Old Comment=D Zener New Comment=BAT46W-E3-08
+Change Component Comment : Designator=D2 Old Comment=D Zener New Comment=MBRS120T3G
+Change Component Comment : Designator=T102 Old Comment=FA2469-ALB New Comment=WBC16-1TLC
+Change Component Comment : Designator=T103 Old Comment=SM-LP-5001E New Comment=WBC1-1TLB
+Change component parameters: Designator = "T102" ("T102"); Footprint = "FA2469ALB"; UniqueID = "\PFYUGGFW\FSQNVSNP" ("\PFYUGGFW\FSQNVSNP")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.coilcraft.com/pdfs/wbc.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "COILCRAFT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WBC16-1TLC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "994-WBC16-1TLC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=994-WBC16-1TLC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "T103" ("T103"); Footprint = "SMLP5001E"; UniqueID = "\PFYUGGFW\OXOUBPQQ" ("\PFYUGGFW\OXOUBPQQ")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/datasheet/2/597/wbc-463492.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "COILCRAFT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "WBC1-1TLB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "994-WBC1-1TLB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Coilcraft/WBC1-1TLB?qs=ZYnrCdKdyefPGG%252BYZVKz5Q%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1" ("D1"); Footprint = "DIODE-0.7"; UniqueID = "\JIAWVLFB\WTNICSCX" ("\JIAWVLFB\WTNICSCX")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.vishay.com/docs/85663/bat46wv.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.35mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BAT46W-E3-08"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "78-BAT46W-E3-08"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/BAT46W-E3-08?qs=KP8Io%2FXyE5QAjvoG5XlHWA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "7104493P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/7104493P"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "DIODE-0.7"; UniqueID = "\JIAWVLFB\AJMGLSZT" ("\JIAWVLFB\AJMGLSZT")
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "http://www.alliedelec.com/on-semiconductor-mbrs120t3g/70339713/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70339713"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/MBRS120T3-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.47mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MBRS120T3G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "863-MBRS120T3G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/MBRS120T3G?qs=3JMERSakebrTp9%2FFDiKL2w%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "5452068P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/5452068P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D2-1
+Added Pin To Net: NetName=NetR147_2 Pin=T103-4
+Added Pin To Net: NetName=NetR146_1 Pin=T103-6
+Change Net Name : Old Net Name=NetD1_2 New Net Name=NetD2_1
+Added Room: Name=Mixers and IF
+Added Room: Name=PA
+Added Room: Name=Sheet1
+Added Room: Name=TELEMETRY
