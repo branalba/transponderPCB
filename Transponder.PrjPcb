@@ -123,6 +123,10 @@ GenerateClassCluster=0
 DocumentUniqueId=REEGBDWE
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for Transponder\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for Transponder\Design Rule Check - PCB1V1.html
 DItemRevisionGUID=
 
@@ -245,7 +249,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Brother HL-L2340D series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
